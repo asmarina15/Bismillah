@@ -14,10 +14,15 @@
 1. Data lokasi layanan jasa/toko/produksi jersey di Surakarta 
 
 ## Tangkapan Layar Komponen Aplikasi
-Halaman Utama
-(img/6.jpg)
-Halaman Login
-(img/4.jpg)
-Halaman HomeScreen
-(img/2.jpg) (1.jpg)
+
+### Halaman Utama
+![Halaman Utama](img/6.jpg)
+
+### Halaman Login
+![Halaman Login](img/4.jpg)
+
+### Halaman HomeScreen
+![HomeScreen - Tampilan 1](img/2.jpg)
+![HomeScreen - Tampilan 2](img/1.jpg)
+
 
