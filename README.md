@@ -4,12 +4,12 @@
 
 ## Komponen Penyusun Produk
 <div align="center">
-   <img src="img/react native.jpeg" alt="1" width="35%" style="margin-right:10px;">
-   <img src="img/2.jpeg" alt="1" width="35%">
+   <img src="react native.jpeg" alt="1" width="35%" style="margin-right:10px;">
+   <img src="2.jpeg" alt="1" width="35%">
 </div>
 </br>
-<img src="img/3.png" alt="3" width="35%" style="margin-right: 10px;"/>
-<img src="img/4.png" alt="4" width="35%"/>
+<img src="3.png" alt="3" width="35%" style="margin-right: 10px;"/>
+<img src="4.png" alt="4" width="35%"/>
 </div>
 </br>
 
