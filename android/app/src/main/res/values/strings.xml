@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bismillah</string>
+
+    <string name="facebook_app_id">1310385703324724</string>
+    <string name="facebook_client_token">3e8b902547bf9d2ba5074c16b63d36a8</string>
 </resources>
+
+

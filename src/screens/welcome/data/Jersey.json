@@ -1,0 +1,164 @@
+[
+  {
+    "no": 1,
+    "toko": "Vendor Jersey.com",
+    "alamat": "Jalan Latar Putih 1 Saripan RT 02, RW 012, No 9, Dusun III, Makamhaji Kabupaten Sukoharjo Jawa Tengah � 4,5 km",
+    "latitude": -7.563864,
+    "longitude": 110.790131,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 2,
+    "toko": "Jual Baju",
+    "alamat": "Mondorakan rt05 rw 07 tipes kec. Serengan surakarta, Tipes, Kec. Serengan Kota Surakarta Jawa Tengah � 4,8 km",
+    "latitude": -7.586242,
+    "longitude": 110.818657,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 3,
+    "toko": "Six Tu Plet Jersey",
+    "alamat": "57121 Surakarta Central Java � 3,0 km",
+    "latitude": -7.570768,
+    "longitude": 110.833168,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 4,
+    "toko": "Kios Jersey Bola",
+    "alamat": "Jl. Kedempel No. 24 57156 Surakarta Central Java � 1,9 km",
+    "latitude": -7.586637,
+    "longitude": 110.819107,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 5,
+    "toko": "PVR Industries",
+    "alamat": "Jl Pangeran Wijil 57154 Serengan Jawa Tengah � < 1 km",
+    "latitude": -7.580383,
+    "longitude": 110.810417,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 6,
+    "toko": "Agen Jersey Regarsport",
+    "alamat": "Sumberagung, 003/002 57136 Surakarta Jawa Tengah � 5,9 km",
+    "latitude": -7.529469,
+    "longitude": 110.816621,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 7,
+    "toko": "Pabrik Jersey Solo",
+    "alamat": "Jl. Tejosari No.10, RT.4/RW.5 57156 Surakarta Jawa Tengah � 6,4 km",
+    "latitude": -7.584948,
+    "longitude": 110.824226,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 8,
+    "toko": "PT. Regarsport Industri Indonesia",
+    "alamat": "Jl. MT. Haryono no 22. RT 01 / RW 03. Wonokarto, Kec. Wonogiri 57612 Surakarta � 26 km",
+    "latitude": -7.7995,
+    "longitude": 110.916512,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 9,
+    "toko": "Xpro Jersey Apparel",
+    "alamat": "Gg. Kutilang Baru 57552 Kwarasan Jawa Tengah � 26 km",
+    "latitude": -7.589055,
+    "longitude": 110.810608,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 10,
+    "toko": "Jersey Printing Terdekat Soloraya",
+    "alamat": "Kp. Kudusan Rt/rw 02/05 57169 Gumpang Jawa Tengah � 5,2 km",
+    "latitude": -7.567653,
+    "longitude": 110.759888,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 11,
+    "toko": "Reseller Jersey Regasport",
+    "alamat": "Gg. Perumahan Loh Agung Celep 57731 Dagen Jawa Tengah � 16 km",
+    "latitude": -7.5635,
+    "longitude": 110.896896,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 12,
+    "toko": "Rumah Jersey Solo",
+    "alamat": "Perumnas Palur, Jl. Nusa Indah No.4 No.13, RT.7/RW.14, Sumbermakmur, Ngringo, Jaten Karanganyar Regency Central Java � 1,8 km",
+    "latitude": -7.573503,
+    "longitude": 110.902054,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 13,
+    "toko": "Anung Jersey Solo",
+    "alamat": "Jl. Kalingga Utara XII No.52C 57136 Surakarta Jawa Tengah � 9,3 km",
+    "latitude": -7.537016,
+    "longitude": 110817696,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 14,
+    "toko": "Eleven Jersey",
+    "alamat": "Tunggon 57554 Kabupaten Sukoharjo Jawa Tengah � 8,0 km",
+    "latitude": -7.593306,
+    "longitude": 110.854424,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 15,
+    "toko": "Rockaballer industees: Vendor sablon kaos dan polyflex jersey",
+    "alamat": "Jl.Puspan RT.02 RW.04 Blulukan, Colomadu , 57174 Karanganyar Central Java � 10 km",
+    "latitude": -7.540504,
+    "longitude": 110.770882,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 16,
+    "toko": "Ada Adha Sablon Kaos Solo dan Jersey Printing",
+    "alamat": "Pabrik 3/1 57554 Plumbon Jawa Tengah � 12 km",
+    "latitude": -7.599682,
+    "longitude": 110.854355,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 17,
+    "toko": "Garuda Print",
+    "alamat": "�Jl. Beo Raya 57169 Kartosuro Jawa Tengah � 10 km",
+    "latitude": -7.554602,
+    "longitude": 110.764572,
+    "": "",
+    "__1": ""
+  },
+  {
+    "no": 18,
+    "toko": "Zona Jersey",
+    "alamat": "FQQP+75H 57375 Desa Donohudan Jawa Tengah � 5,1 km",
+    "latitude": -7.517853,
+    "longitude": 110.783272,
+    "": "",
+    "__1": ""
+  }
+]
