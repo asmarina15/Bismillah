@@ -15,9 +15,9 @@
 
 ## Tangkapan Layar Komponen Aplikasi
 Halaman Utama
-(6.jpg)
+(img/6.jpg)
 Halaman Login
-(4.jpg)
+(img/4.jpg)
 Halaman HomeScreen
-(2.jpg) (1.jpg)
+(img/2.jpg) (1.jpg)
 
