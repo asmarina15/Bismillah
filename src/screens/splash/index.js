@@ -7,13 +7,13 @@ export default function SplashScreen({navigation}) {
     }, 3000);
     return (
         <ImageBackground
-            source={require('../../assets/splashback.jpeg')}
+            source={require('../../assets/jerseyyy.jpg')}
             resizeMode={"cover"}
             style={{flex: 1, padding: 15}}>
             <Text 
                 style={{
                     fontSize: 25,
-                    color: 'black',
+                    color: 'white',
                     fontWeight: 'bold',
                     textAlign: 'center',
                     justifyContent: 'center',

@@ -4,9 +4,20 @@
 
 ## Komponen Penyusun Produk
 * React Native: Framework utama untuk pembangunan aplikasi  
-* Firebase Authentication: Autentikasi pada proses login aplikasi
-* Metro Bundler: 
+* Fetch API: Pengelolaan server menggunakan HTTP request
+* Firebase Authentication: Autentikasi pada proses login aplikasi baik secara manual maupun lewat Google
+* Metro Bundler: JavaScript bawaan dari React Native
+* Node.js: Mengelola depedensi aplikasi
+* Android Studi & Xcode: Emulator pengujian aplikasi di Android/iOS
+
+## Sumber Data
+1. Data lokasi layanan jasa/toko/produksi jersey di Surakarta 
 
 ## Tangkapan Layar Komponen Aplikasi
-
+Halaman Utama
+(6.jpg)
+Halaman Login
+(4.jpg)
+Halaman HomeScreen
+(2.jpg) (1.jpg)
 
