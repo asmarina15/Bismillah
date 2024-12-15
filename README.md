@@ -25,4 +25,7 @@
 ![HomeScreen - Tampilan 1](img/2.jpg)
 ![HomeScreen - Tampilan 2](img/1.jpg)
 
+## Video Hasil Demostrasi
+Untuk melihat hasil debug aplikasi, silakan kunjungi tautan berikut:  
+[Hasil Demostrasi di YouTube](https://youtu.be/tSS98PTfaGg?si=H07_eDmue5ROXVDT)
 
